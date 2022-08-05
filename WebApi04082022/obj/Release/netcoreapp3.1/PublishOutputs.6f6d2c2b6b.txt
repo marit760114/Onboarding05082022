@@ -1,0 +1,17 @@
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\WebApi04082022.exe
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\WebApi04082022.dll
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\WebApi04082022.deps.json
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\WebApi04082022.runtimeconfig.json
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\WebApi04082022.pdb
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Amy\source\repos\WebApi04082022\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
