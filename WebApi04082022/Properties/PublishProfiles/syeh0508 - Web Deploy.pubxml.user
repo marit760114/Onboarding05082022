@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKaSgLoCKzkyb2A78WJ3eHwAAAAACAAAAAAAQZgAAAAEAACAAAABFBJlGHqipWY7G33/mDjdLYdt0K6/VbSD9Aq2vQ2m+LwAAAAAOgAAAAAIAACAAAABE04QdiW4EBmRohlpVQKc3cdc/9zE+hhfA1vv7KcRSWYAAAACYce1JErX+cIoYFlTorL+6dCobvMvPftxOJ2Z9AKToRnPLzch20oEro1WBE2x/n/Wuu+e3QRRgP3ORxqaSBU2u/d5di8AtX5toQgYAIqSIKamLywxm+KF3RPA9ITA91A6nlKP2l5ZRB2W3HzLqlbItHD2ToMgQ3KYJH1WI0QyXLEAAAACp0UPXibwh+07zS46h3x4bRk/23iadE29tR+3BdPnYuKGd0q6Bal6ZnSS1XrCCUIHZpdtQyZZWxAZNWS5e6u45</EncryptedPassword>
+    <History>True|2022-08-04T22:30:08.0189891Z;True|2022-08-05T07:57:02.0782753+10:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SqlDb">
+      <Value>Server=tcp:syeh10.database.windows.net,1433%3bInitial Catalog=OnboardingTask0508%3bPersist Security Info=False%3bUser ID=marit760114%3bPassword=%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
